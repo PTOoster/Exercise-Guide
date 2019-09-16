@@ -11,7 +11,7 @@ First you need to *fork* the exercise repository. For an explanation of forking,
 
 - Open the repository by clicking on the name. Then, fork the repository by clicking on the *fork* button at the right-top of your screen
 
-![fork button](https://github.com/PTOoster/Continuous-integration/blob/master/images/fork_button.png?raw=true)
+![fork button](https://github.com/PTOoster/Exercise-Guide/blob/master/images/fork_button.png?raw=true)
 
 ## 2. Add teammate and clone
 
@@ -25,7 +25,7 @@ Now you have your own version of the exercise repository, which you can clone to
 
 - Work on the exercise and use Travis CI for feedback (check the Travis CI introduction)
 
-![Add team member](https://github.com/PTOoster/Continuous-integration/blob/master/images/team_member.png?raw=true)
+![Add team member](https://github.com/PTOoster/Exercise-Guide/blob/master/images/team_member.png?raw=true)
 
 
 ## 3. Submit and review
@@ -36,14 +36,14 @@ Before the deadline, you submit your solution of the exercise via a *pull reques
 
 - Go to your repository on Github and click on *new pull request* 
 
-![pull request](https://github.com/PTOoster/Continuous-integration/blob/master/images/pull_button.png?raw=true)
+![pull request](https://github.com/PTOoster/Exercise-Guide/blob/master/images/pull_button.png?raw=true)
 
 - Click on the button *create pull request*
 
 - As subject of the pull request, write your team name, and click on the button *create pull request*
 
-![Add team member](https://github.com/PTOoster/Continuous-integration/blob/master/images/pull_request.png?raw=true)
+![Add team member](https://github.com/PTOoster/Exercise-Guide/blob/master/images/pull_request.png?raw=true)
 
 - Go to the [geoscripting-innovation organization](https://github.com/geoscripting-innovation). Under the tab *pull requests* you can now see the exercise repositories of all teams. To review, leave a comment under the pull request
 
-![Add team member](https://github.com/PTOoster/Continuous-integration/blob/master/images/review.png?raw=true)
+![Add team member](https://github.com/PTOoster/Exercise-Guide/blob/master/images/review.png?raw=true)
